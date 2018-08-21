@@ -1,0 +1,15 @@
+*.class
+.metadata
+.settings
+.recommenders
+*.jar
+
+bin
+classes
+Servers
+*.jar
+Sistema_Atendimento_Psicologico/.mvn/wrapper/maven-wrapper.properties
+Sistema_Atendimento_Psicologico/.mvn/wrapper/maven-wrapper.jar
+Sistema_Atendimento_Psicologico/.mvn/wrapper/maven-wrapper.jar
+Sistema_Atendimento_Psicologico/.project
+Sistema_Atendimento_Psicologico/.classpath
