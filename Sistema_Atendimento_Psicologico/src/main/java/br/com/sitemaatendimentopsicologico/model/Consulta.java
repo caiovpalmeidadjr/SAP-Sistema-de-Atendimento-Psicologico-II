@@ -2,8 +2,15 @@ package br.com.sitemaatendimentopsicologico.model;
 
 import java.time.LocalDate;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
 public class Consulta {
 
+	@Id
+	@GeneratedValue
 	private Long id;
 	private String nome;
 	private LocalDate data;
